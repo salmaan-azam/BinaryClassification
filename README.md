@@ -76,8 +76,5 @@ We choose XGBoost Model with Full Feature dataset for train the full dataset and
 1. https://www.youtube.com/watch?v=uMlU2JaiOd8&list=PLZoTAELRMXVPgjwJ8VyRoqmfNs2CJwhVH&ab_channel=KrishNaik
 2. https://www.analyticsvidhya.com/blog/2020/10/feature-selection-techniques-in-machine-learning/
 3. https://www.analyticsvidhya.com/blog/2020/11/popular-classification-models-for-machine-learning/
-4. https://www.analyticsvidhya.com/blog/2019/08/how-to-remove-stopwords-text-normalization-nltk-spacy-gensim-python/
-5. https://stackoverflow.com/questions/35345761/python-re-split-vs-nltk-word-tokenize-and-sent-tokenize
-
 
 
